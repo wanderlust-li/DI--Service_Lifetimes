@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dl_Service_Lifetime/1.0.0": {
+        "runtime": {
+          "Dl_Service_Lifetime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dl_Service_Lifetime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
